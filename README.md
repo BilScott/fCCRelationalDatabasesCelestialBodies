@@ -1,0 +1,1 @@
+Solution file to the celestial bodies relational database project on freeCodeCamp - https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
